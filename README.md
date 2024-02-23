@@ -29,8 +29,8 @@ To use mSecure 3.0, follow these steps:
    npm start
 
 4. Run the client-side:
-```bash
-npm run dev
+   ```bash
+   npm run dev
 
 5. Start Ganache to initialize the free test network.
 
