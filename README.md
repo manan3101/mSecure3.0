@@ -25,8 +25,8 @@ To use mSecure 3.0, follow these steps:
 2. Update the `ABI.json` file.
 
 3. Start the server:
-```bash
-npm start
+   ```bash
+   npm start
 
 4. Run the client-side:
 ```bash
