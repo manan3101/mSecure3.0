@@ -14,6 +14,8 @@ Blockchain technology offers several advantages when applied to password managem
 
 4. **Transparency and Auditability**: The transparent nature of blockchain technology allows users to verify the integrity of their data at any time. All transactions are recorded on the public ledger, ensuring accountability and auditability.
 
+
+
 ## Getting Started
 
 To use mSecure 3.0, follow these steps:
