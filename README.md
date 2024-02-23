@@ -20,7 +20,7 @@ To use mSecure 3.0, follow these steps:
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/manan3101/mSecure3.0.git
+   git clone https://github.com/manan3101/mSecure3.0.git
 
 2. Update the `ABI.json` file.
 
