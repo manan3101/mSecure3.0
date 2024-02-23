@@ -22,18 +22,19 @@ To use mSecure 3.0, follow these steps:
    ```bash
    git clone https://github.com/manan3101/mSecure3.0.git
 
-2. Download GANACHE to get free test network of Ethereum blockchain and compile smart contract on Remix ide. connect compiler and ganche with METAMASK to deploy smart 
-   contract.
+2. Deploy `SMART CONTRACT` by connecting ganache and IDE with METAMASK and Update the `ABI.json` file.
 
-3. Update the `ABI.json` file.
-
-4. Start the server:
+3. Start the server:
    ```bash
    npm start
 
+4. open the Ethereum Network in ganache
+   
 5. Run the client-side:
    ```bash
    npm run dev
+
+
 
 ## Project Structure
 
