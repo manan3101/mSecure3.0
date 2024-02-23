@@ -33,6 +33,7 @@ To use mSecure 3.0, follow these steps:
 5. Run the client-side:
    ```bash
    npm run dev
+   ```
 
 
 
