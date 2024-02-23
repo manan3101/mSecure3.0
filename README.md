@@ -1,6 +1,6 @@
 # mSecure 3.0 - Blockchain-Based Password Manager
 
-mSecure 3.0 is a password manager website leveraging blockchain technology for enhanced security. The project incorporates a smart contract written in Solidity, compiled using Remix IDE and connected to Ganache for free test network. Frontend development is based on React/Vite, while the backend is built using Node.js.
+mSecure 3.0 is a password manager website leveraging blockchain technology for enhanced security. The project incorporates a smart contract written in Solidity, compiled using Remix IDE and connected to Ganache for free test network. 
 
 ## Benefits of Blockchain Technology in Password Management
 
@@ -22,19 +22,18 @@ To use mSecure 3.0, follow these steps:
    ```bash
    git clone https://github.com/manan3101/mSecure3.0.git
 
-2. Update the `ABI.json` file.
+2. Download GANACHE to get free test network of Ethereum blockchain and compile smart contract on Remix ide. connect compiler and ganche with METAMASK to deploy smart 
+   contract.
 
-3. Start the server:
+3. Update the `ABI.json` file.
+
+4. Start the server:
    ```bash
    npm start
 
-4. Run the client-side:
+5. Run the client-side:
    ```bash
    npm run dev
-
-5. Start Ganache to initialize the free test network.
-
-6. Connect your wallet using Metamask and set a password.
 
 ## Project Structure
 
