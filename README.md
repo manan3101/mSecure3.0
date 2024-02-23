@@ -1,4 +1,4 @@
-# mSecure 3.0 - Blockchain-Based Password Manager
+# m$ecure 3.0 - Blockchain-Based Password Manager
 
 mSecure 3.0 is a password manager website leveraging blockchain technology for enhanced security. The project incorporates a smart contract written in Solidity, compiled using Remix IDE and connected to Ganache for free test network. 
 
